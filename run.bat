@@ -1,2 +1,2 @@
 behave features
-behave serve reports\features
+REM behave serve reports\features
